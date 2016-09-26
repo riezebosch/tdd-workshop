@@ -1,0 +1,44 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "red-green-refactor.html",
+        "id": "red-green-refactor",
+        "class": "step",
+        "data": {
+            "x": 2000,
+            "y": -500,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "testing-pyramid.html",
+        "id": "testing-pyramid",
+        "class": "step",
+        "data": {
+            "x": 2000,
+            "y": 500,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]
